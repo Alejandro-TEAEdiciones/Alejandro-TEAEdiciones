@@ -5,5 +5,5 @@
 # Alejandro Sánchez Monzón
 *`IT Intern Software Developer`*
 
-> [!NOTE]
-> <a href="https://www.linkedin.com/in/alejandrosm/" target="_blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width: 2rem;" /></a>
+## Contacto
+<code><a href="https://www.linkedin.com/in/alejandrosm/" target="_blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" style="width: 2rem;" /></a></code>
